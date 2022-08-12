@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    width: 100%;
+    height: 100vh;
+    background: url(IMAGE1\ \(11\).png);
+    background-size: cover;
+}
+
+header .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+header .headerabout h1 {
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 44px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 35px;
+}
+
+
+
+section .title h1 {
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #313131;
+    margin-top: 50px;
+}
+
+section .title p {
+    font-family: 'Droid Sans';
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    text-align: center;
+    color: rgba(115, 115, 115, 0.74);
+
+}
+
+.row {
+    align-items: center;
+}
+
+section .row img {
+    margin-top: 120px;
+}
+
+.row h1 {
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #313131;
+    margin-top: 33px;
+}
+
+.row h6 {
+    color: #CF404D;
+    font-family: 'Oswald';
+}
+
+.title h1 {
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #313131;
+    margin-top: 100px;
+}
+
+.title p {
+    font-family: 'Droid Sans';
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    text-align: center;
+    color: rgba(115, 115, 115, 0.74);
+}
+
+
+
+.title {
+    text-align: center;
+
+}
+
+.row {
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
+input {
+    border-color: rgba(64, 64, 71, 0.3);
+    border-radius: 4px;
+    padding: 8px 10px 4px 15px;
+}
+
+.col textarea {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 0px rgba(64, 64, 71, 0.3);
+    border-radius: 3px;
+    height: 80px;
+    width: 350px;
+}
+
+.row button {
+    width: 350px;
+    height: 45px;
+    position: absolute;
+    margin-top: 200px;
+}
+
+h1 {
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.74);
+    margin-top: 100px;
+}
+
+.head {
+    background-color: #CF404D;
+    margin-top: 50px;
+}
+
+.head p {
+    position: absolute;
+    text-align: center;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 36px;
+    color: #FFFFFF;
+    justify-content: center;
+    margin: 0 120px;
+}
+
+.head button {
+    border: 2px solid #fff;
+}
+
+textarea {
+
+    background: #FFFFFF;
+    border-radius: 3px;
+    margin-top: 20px;
+    padding: 40px 40px;
+}
+
+.button {
+  
+    text-align: center;
+    position: absolute;
+}
